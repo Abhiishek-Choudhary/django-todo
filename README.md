@@ -9,7 +9,7 @@ Add, edit, delete, and mark tasks as completed — all in one place.
 
 ✏️ Edit existing tasks
 
-✅ Mark tasks as completed or pending
+✅CRUD Operation
 
 🗑️ Delete tasks
 
@@ -77,3 +77,4 @@ Your Name
 🌐 your-website.com //Not Deployed(you know why?)
 
 📧 akc64016@gmail.com
+
