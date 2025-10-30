@@ -81,8 +81,8 @@ DATABASES = {
         'ENFORCE_SCHEMA': False,
         'CLIENT': {
             'host': 'mongodb+srv://user:Abhishek@cluster0.mongodb.net/',
-            'username': 'user',
-            'password': 'Abhishek',
+            'username': '',
+            'password': '',
             'authMechanism': 'SCRAM-SHA-1',
         }
     }
