@@ -27,7 +27,7 @@ Database: MongoDB / SQL Lite
 🧩 Installation
 1. Clone the repository
 git clone https://github.com/Abhiishek-Choudhary/django-todo.git
-cd todo-app
+cd django-todo
 
 2. Install dependencies
 pip install
@@ -77,4 +77,5 @@ Your Name
 🌐 your-website.com //Not Deployed(you know why?)
 
 📧 akc64016@gmail.com
+
 
